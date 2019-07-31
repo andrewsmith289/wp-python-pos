@@ -1,0 +1,26 @@
+POSystem Test Scenarios
+
+OAuth2 CMS Authentication Window
+1.	User enters valid credentials
+2.	User enters invalid credentials
+3.	User closes window without choosing anything
+
+READY State
+1.	User scans Order QR
+2.	User scans Product QR
+3.	User scans Tracking QR
+4.	User scans unrecognized QR
+
+ORDER_FILL State
+1.	User scans Order QR
+2.	User scans Product QR
+3.	User scans Tracking QR
+4.	User scans unrecognized QR
+
+WAIT_TRACKING State
+1.	User scans Order QR
+2.	User scans Product QR
+3.	User scans Tracking QR
+4.	User scans unrecognized QR
+
+
